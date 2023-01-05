@@ -1,0 +1,8 @@
+Multiply
+
+This code does not execute properly. Try to figure out why.
+
+Minha solução, Python3.10 
+
+def multiply(a, b):
+    return(a * b)
